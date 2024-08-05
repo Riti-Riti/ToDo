@@ -6,7 +6,8 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #DCDCDC;
-     background-image: url("https://toomva.com/images/posts/2024/01/phan-biet-work-job-career-employment-1.png");
+    background-image: url("https://toomva.com/images/posts/2024/01/phan-biet-work-job-career-employment-1.png");
+    background-position: center;
 }
 
 .container {
